@@ -39,7 +39,7 @@ function App() {
           </div>
         </div>
       </main>
-      <footer className="md:absolute right-0 bottom-0">
+      <footer className="absolute right-0 bottom-0">
         <div className="attribution pt-10 md:pt-0 text-white">
           Challenge by{" "}
           <a
