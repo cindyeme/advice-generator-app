@@ -34,7 +34,7 @@ function App() {
     <>
       <main>
         <div className="App-header bg-dark-blue">
-          <div className="bg-dark-grayish-blue  px-5 md:px-10 pt-10 pb-16 flex flex-col space-y-5 items-star shadow-xl rounded-2xl text-2xl max-w-[35rem] relative mx-4 md:mx-0">
+          <div className="bg-dark-grayish-blue  px-5 md:px-10 pt-10 pb-16 flex flex-col space-y-5 items-star shadow-xl rounded-2xl text-2xl max-w-[35rem] relative mx-6 md:mx-0">
             <Card slip={slip} fetchAdvice={generateAdvice} loading={loading} />
           </div>
         </div>
